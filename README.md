@@ -2,6 +2,15 @@
 
 I'm Prakash, a seasoned software engineer with 9+ years of experience in the software industry. Throughout my career, I have developed a strong proficiency in both backend frameworks and cloud technologies, as well as a deep understanding of data and AI/ML libraries. I am passionate about building efficient, scalable, and innovative solutions that drive business success.
 
+| Technology | Description |
+|------------|-------------|
+| ![Starlette](https://img.shields.io/badge/Starlette-20232a?style=for-the-badge&logo=starlette) | High-performance asyncio web framework |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | High-level Python web framework |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Lightweight WSGI web application framework |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) | Modern, fast (high-performance) web framework |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | EC2, S3, RDS, Lambda, API Gateway, DynamoDB, SageMaker |
+| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | Compute Engine, Cloud Storage, BigQuery, Cloud Functions, Cloud Run, AI Platform |
+
 ## Technical Skills and Expertise
 
 ### Backend Frameworks
