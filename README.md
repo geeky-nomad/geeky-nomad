@@ -39,7 +39,8 @@ I am well-versed in implementing and utilizing various protocols for communicati
 
 
 ## My Projects
-- [Project 1](https://github.com/geeky-nomad/maveric): Maveric is an innovative chatbot project designed to seamlessly integrate with various domains including e-commerce, healthcare, finance, and more. Leveraging the power of Large Language Models (LLMs), Maveric offers a versatile conversational interface that can adapt and thrive in any domain-specific environment.
+- [Project 1](https://github.com/geeky-nomad/mirzacles): This is a small project based on FastAPI framework which is built on top of Starlette. Strictly following the modular approach here.   
+- [Project 2](https://github.com/geeky-nomad/maveric): Maveric is an innovative chatbot project designed to seamlessly integrate with various domains including e-commerce, healthcare, finance, and more. Leveraging the power of Large Language Models (LLMs), Maveric offers a versatile conversational interface that can adapt and thrive in any domain-specific environment.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prakash-singh-b6246316b)
